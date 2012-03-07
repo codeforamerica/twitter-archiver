@@ -1,0 +1,12 @@
+{
+  "name": "tweetlogger",
+  "subdomain": "tweetlogger",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "request": "2.9.153",
+    "ntwitter": "0.2.10"
+  },
+  "version": "0.0.1"
+}
